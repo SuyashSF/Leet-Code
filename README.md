@@ -1,2 +1,4 @@
 # Leet-Code
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Collection of LeetCode questions to ace the coding interview!
+
+Grinding in Python, C++ and, hopefully, Java.
